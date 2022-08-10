@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/myspace8/product-preview-card-component-main)
+- Live Site URL: [myspace8.github.io](https://myspace8.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -83,6 +83,6 @@ Add transition to the button.
 ## Author
 
 - Frontend Mentor - [@myspace8](https://www.frontendmentor.io/profile/myspace8)
-- Twitter - [@yourusername](https://twitter.com/owoahene_joseph)
+- Twitter - [@owoahene_joseph](https://twitter.com/owoahene_joseph)
 
 
